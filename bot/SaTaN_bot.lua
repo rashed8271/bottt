@@ -235,16 +235,16 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {218233977,168980738},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[W_SaTaN_W V 1
+    about_text = [[paradux bot v2
     Advanced Bot Base On Seed
     
-    @WilSoN_DeVeLoPeR[DeVeLoPeR] 
+    sudo:@Xx_A_M_xX_bye_ethd 
     
-    #Open_Source 
-    [@W_SaTaN_W] [Https://github.com/DeterGent-Legion/MeGa_SaTaN]
+    #paradux bot
+    ..
     
 ]],
     help_text_realm = [[
